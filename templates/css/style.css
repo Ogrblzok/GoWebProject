@@ -1,0 +1,8 @@
+/* По тегу */
+p { color: blue; }
+
+/* По классу (в HTML: class="text") */
+.text { font-size: 16px; }
+
+/* По id (в HTML: id="header") */
+#header { background: #ccc; }
